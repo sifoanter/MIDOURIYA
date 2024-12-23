@@ -13,14 +13,14 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "𝐀𝐌𝐈𝐍𝐔𝐋-𝐁𝐎𝐓",
-  "prefix": "#",
+  "nickNameBot": "𝙼𝙸𝙳𝙾u𝚁𝙸𝚈𝙰 💚",
+  "prefix": "©",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61569832358766"
+    "100076269693499"
   ],
   "whiteListMode": {
     "enable": false,
