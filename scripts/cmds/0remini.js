@@ -31,7 +31,7 @@ module.exports = {
 
       api.sendMessage('🔄 | جارٍ تحويل الإيموجي إلى صورة متحركة، يرجى الانتظار...', threadID, messageID);
 
-      const response = await axios.get(`https://apis-samir.onrender.com/egif?emoji=${encodeURIComponent(emoji)}`, { responseType: 'arraybuffer' });
+      const response = await axios.get(`https://www.samirxpikachu.run.place/egif?emoji=${encodeURIComponent(emoji)}`, { responseType: 'arraybuffer' });
 
       fs.writeFileSync(gifPath, Buffer.from(response.data, 'binary'));
 
