@@ -11,9 +11,7 @@
 ---
 
 ## 🖼️ console 
-<p align="center">
-  <img src="https://i.imgur.com/t4NsoD0.jpeg" alt="Midoria Bot Profile" width="250">
-</p>
+![consol](https://i.postimg.cc/6Q2LfJ8Y/Screenshot-2025-09-04-04-17-04-376-com-android-chrome-2.jpg) 
 
 ---
 
