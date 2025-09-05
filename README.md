@@ -60,7 +60,7 @@
 3. افتح مجلد المشروع وثبّت الحزم:  
    ```bash
    npm install 
-   node inde.js 
-node inde.js 
+   node index.js 
+
 ---
 ##SIF
