@@ -59,7 +59,8 @@
 2. حمّل المشروع أو استنسخه عبر GitHub.  
 3. افتح مجلد المشروع وثبّت الحزم:  
    ```bash
-   npm install
+   npm install 
+   node inde.js 
 node inde.js 
 ---
 ##SIF
