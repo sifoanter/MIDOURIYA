@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://ibb.co/MxPmkXhJ.jpg" alt="Nero Bot Banner" width="800">
-</p>
-
+![Nero Bot Banner](https://i.ibb.co/MxPmkXh/Nero-Bot-Banner.jpg)
 <h1 align="center">✨Nerobot 🟢</h1>
 <p align="center">Messenger bot sample v2</p>
 
