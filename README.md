@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">✨Nerobot 🟢</h1>
-<p align="center">بوت دردشة مسنجر – الإصدار الأول</p>
+<p align="center">Messenger bot sample v2</p>
 
 ---
 
