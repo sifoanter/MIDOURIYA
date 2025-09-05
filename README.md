@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/rCjIm3q.jpg" alt="Nero Bot Banner" width="800">
+  <img src="https://imgur.com/a/1wlLGu2.jpg" alt="Nero Bot Banner" width="800">
 </p>
 
 <h1 align="center">✨Nerobot 🟢</h1>
