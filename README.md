@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/rCjIm3q.jpg" alt="Nero Bot Banner" width="800">
 </p>
 
-<h1 align="center">⚜️ ميدوريا البوت 🟢</h1>
+<h1 align="center">✨Nerobot 🟢</h1>
 <p align="center">بوت دردشة مسنجر – الإصدار الأول</p>
 
 ---
