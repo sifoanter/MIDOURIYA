@@ -12,7 +12,7 @@
 
 ---
 
-## 🖼️ صورة بروفايل البوت
+## 🖼️ console 
 <p align="center">
   <img src="https://i.imgur.com/t4NsoD0.jpeg" alt="Midoria Bot Profile" width="250">
 </p>
