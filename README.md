@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/rCjIm3q.jpg" alt="Midoria Bot Banner" width="800">
+  <img src="https://i.imgur.com/rCjIm3q.jpg" alt="Nero Bot Banner" width="800">
 </p>
 
 <h1 align="center">⚜️ ميدوريا البوت 🟢</h1>
@@ -8,8 +8,7 @@
 ---
 
 ## 👨‍💻 صاحب المشروع
-- المالك والمطور: **حسين يعقوبي** (🔵 صائد الأرواح 🔵 🍒)  
-- شكر خاص للمنشئ الأصلي: **﹝𝗡𝗧𝗞𝗛𝗔𝗡𝗚﹞**
+- SIFO ANTER **Nero**
 
 ---
 
