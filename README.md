@@ -35,10 +35,8 @@
 
 ---
 
-## 📸 صور من داخل البوت
-<p align="center">
-  <img src="https://i.ibb.co/RQ28H2p/banner.png" alt="Screenshot Banner" width="800">
-</p>
+## 🐐This bot runs a special cmd for goats. 
+![Nero Bot Banner](https://i.postimg.cc/d1Fkkzr7/Picsart-25-09-05-03-06-32-423.png) 
 
 ---
 
